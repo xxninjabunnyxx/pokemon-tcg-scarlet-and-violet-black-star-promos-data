@@ -1,0 +1,86 @@
+---
+id: svp-27
+name: Pikachu
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '60'
+types:
+- Lightning
+evolvesTo:
+- Raichu
+attacks:
+- name: Adventuring Together
+  cost:
+  - Lightning
+  - Lightning
+  - Lightning
+  convertedEnergyCost: 3
+  damage: 30+
+  text: This attack does 10 more damage for each of your Benched Pokémon.
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: svp
+  name: Scarlet & Violet Black Star Promos
+  series: Scarlet & Violet
+  printedTotal: 45
+  total: 42
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: PR-SV
+  releaseDate: 2023/01/01
+  updatedAt: 2023/09/07 23:15:00
+  images:
+    symbol: https://images.pokemontcg.io/svp/symbol.png
+    logo: https://images.pokemontcg.io/svp/logo.png
+number: '27'
+artist: Atsushi Furusawa
+rarity: Promo
+flavorText: Pikachu seems excited to be going on an adventure, and so do its new pals,
+  from attention-seeking Sprigatito to laid-back Fuecoco and tidy Quaxly.
+nationalPokedexNumbers:
+- 25
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: G
+images:
+  small: https://images.pokemontcg.io/svp/27.png
+  large: https://images.pokemontcg.io/svp/27_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/svp-27
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 20.34
+      mid: 28.77
+      high: 49.99
+      market: 26.6
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/svp-27
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 4.16
+    lowPrice: 2.5
+    trendPrice: 3.95
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.0
+    lowPriceExPlus: 2.5
+    avg1: 4.42
+    avg7: 3.93
+    avg30: 4.16
+    reverseHoloAvg1: 0.0
+    reverseHoloAvg7: 0.0
+    reverseHoloAvg30: 0.0
